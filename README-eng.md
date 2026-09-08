@@ -2,6 +2,10 @@
 
 <h1>ExitPath 2.0 - Evacuation Routing & Emergency Infrastructure with Graphs</h1>
 
+## 🎥 Demo Video
+
+▶️ [Watch the ExitPath 2.0 demo on YouTube](https://www.youtube.com/watch?v=PiFFxaNQLw8)
+
 <p align="center">
   <img src="https://i.postimg.cc/L5GFDGGp/Captura-de-Tela-2026-09-07-a-s-08-06-11.png" width="700"><br><br>
   <img src="https://i.postimg.cc/K8SyMSn0/Captura-de-Tela-2026-09-07-a-s-08-06-49.png" width="700"><br><br>
