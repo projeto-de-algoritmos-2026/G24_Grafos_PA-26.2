@@ -2,6 +2,9 @@
 
 <h1>ExitPath 2.0 - Rotas de Evacuação e Infraestrutura de Emergência com Grafos</h1>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiFFxaNQLw8?si=VAyIjhx_NPcJ-jx3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 <p align="center">
   <img src="https://i.postimg.cc/L5GFDGGp/Captura-de-Tela-2026-09-07-a-s-08-06-11.png" width="700"><br><br>
   <img src="https://i.postimg.cc/K8SyMSn0/Captura-de-Tela-2026-09-07-a-s-08-06-49.png" width="700"><br><br>
